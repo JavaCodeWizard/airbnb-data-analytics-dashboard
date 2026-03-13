@@ -7,6 +7,10 @@ The dashboard explores **platform growth, market concentration, pricing behavior
 
 This project was developed as part of the **Microsoft Elevate x AICTE 4-Week Power BI Virtual Internship Program.**
 
+Due to GitHub file size limitations, the full Power BI dashboard file (.pbix) is hosted on Google Drive.
+
+🔗 **Download the interactive dashboard:**  
+https://drive.google.com/file/d/1jYxQVWuLREtZklEIjchIoa8Rvr2GWj95/view?usp=drive_link
 ---
 
 # Project Objectives
